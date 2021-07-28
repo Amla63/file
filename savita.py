@@ -1,0 +1,5 @@
+f=open("savita.txt","w")
+a=f.write("hello navgurukul")
+a=f.write("\nthere are seven council members")
+print(a)
+f.close() 
